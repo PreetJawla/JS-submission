@@ -38,4 +38,3 @@ mintNFT('Grapes', 'Green', 'Sour', '50g');
 
 listNFTs();
 console.log("Total Supply: " + getTotalSupply());
-console.log();
